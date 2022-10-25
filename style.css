@@ -148,6 +148,7 @@ section {
     background-color: #0B0D1F;
     color: #fff;
     font-size: 16px;
+    cursor: pointer;
 }
 
 .forms p {
